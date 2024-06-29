@@ -89,4 +89,23 @@ div.video > iframe {
     border-top-left-radius: 3em;
 }
 
+footer section {
+    background-image: linear-gradient(to bottom, #FF9700, #FF7700);
+    text-align: center;
+   
+    
+}
+
+footer p {
+    background-color: white;
+    text-align: center;
+    padding: 1em;
+  
+    margin: auto;
+    transition-duration: 1s;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
 

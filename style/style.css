@@ -67,10 +67,9 @@ main > article > p {
 }
 
 main section img {
-    width: 400px;
     padding: 1.5em;
     border-top-left-radius: 4em;
-    transition-duration: 0.8s;
+    transition-duration: 1s;
 }
 
 div.video {

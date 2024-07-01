@@ -106,6 +106,50 @@ footer p {
     font-family: 'Times New Roman', Times, serif;
 }
 
+article p {
+    padding: 1.5em;
+}
 
 
+#escolha {
+    padding: 1.5em;
+}
+
+div p {
+    padding: 1.5em;
+}
+
+#ins img {
+    box-shadow: 5px 2px 5px rgba(0, 0, 0, 0.479);
+    border-radius: 2em;
+}
+
+#ins a:hover  img{
+    transform: translate(-5px, -5px);
+   transition: transform 1s;
+}
+
+
+picture#picture img{
+  border-bottom-right-radius: 2.3em;
+  transition-duration: 0.7s;
+  padding: 0.5em;
+  box-shadow: 1.2px 2.4px 5px black;
+
+}
+
+#Social img {
+    width: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.404);
+    box-sizing: border-box;
+}
+
+#Social img:hover {
+    border: 2px solid rgb(255, 255, 255);
+    transform: translate(-5px, -5px);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.61);
+    transition: transform 0.5s;
+}
 
